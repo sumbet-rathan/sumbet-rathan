@@ -96,11 +96,11 @@ A Python-based simulator that models an IPL-style player auction, applying budge
 
 ### 📊 GitHub Stats
 
-![Sai Rathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumbet-rathan&show_icons=true&theme=dark&hide_border=false&count_private=false)
+![Sai Rathan's GitHub stats](https://github-readme-stats-eight-omega.vercel.app/api?username=sumbet-rathan&show_icons=true&theme=dark&hide_border=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sumbet-rathan&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumbet-rathan&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats-eight-omega.vercel.app/api/top-langs/?username=sumbet-rathan&theme=dark&hide_border=false&layout=compact)
 
 ---
 
