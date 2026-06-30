@@ -36,21 +36,33 @@ Across these roles, I've managed **10,000+ operational and recruitment records**
 
 ### 🚀 Featured Projects
 
-#### 🛰️ [Decoding Cyber Threats — EDA of Network Flow Patterns](https://github.com/sumbet-rathan)
+#### 1️⃣ [SQL: Recruitment Management System](https://github.com/sumbet-rathan/SQL-Recruitment-Management-System)
+`SQL` `Database Design` `Joins` `Aggregations`
+A relational database system for managing recruitment workflows — candidate records, job openings, and interview tracking — with SQL queries built for reporting and pipeline analysis.
+
+#### 2️⃣ [EDA: Decoding Cyber Threats — Network Flow Analysis](https://github.com/sumbet-rathan/EDA_Cyber_Threats_Analysis)
 `Python` `EDA` `Power BI` `CICIDS 2017`
 Analyzed 2.8M+ network flow records to identify behavioral signatures of 6 attack types vs. normal traffic. Used correlation heatmaps and frequency profiling to surface 10+ key risk features for SOC alert tuning.
 
-#### 💼 [Indian Job Market Analysis — Naukri.com EDA](https://github.com/sumbet-rathan)
-`Python` `Web Scraping` `EDA` `Power BI`
-Scraped 1,000+ live job postings across 9 domains, engineered features, and built a multi-page Power BI dashboard with DAX-driven demand scores and salary benchmarks to surface in-demand skills and hiring trends.
+#### 3️⃣ [EDA: Indian Job Market Analysis — Naukri.com](https://github.com/sumbet-rathan/EDA_Indian_Job_Market_Analysis_Naukri)
+`Python` `Web Scraping` `EDA`
+Scraped 1,000+ live job postings across 9 domains and performed exploratory analysis and feature engineering to uncover hiring trends, in-demand skills, and salary patterns.
 
-#### ⚡ [ElectroVision — Global EV Analytics Dashboard](https://github.com/sumbet-rathan)
+#### 4️⃣ [Power BI: Indian Job Market Analysis Dashboard](https://github.com/sumbet-rathan/Power_BI_Indian-Job-Market-Analysis)
+`Power BI` `DAX` `Naukri.com Data`
+Built a multi-page Power BI dashboard with DAX-driven demand scores and salary benchmarks, turning the scraped Naukri.com dataset into a self-serve view of in-demand skills and hiring trends.
+
+#### 5️⃣ [SQL: Grocery Store Management System](https://github.com/sumbet-rathan/SQL_Grocery_Store_Management_System)
+`SQL` `MySQL` `Joins` `Aggregations` `Subqueries`
+Designed a normalized 7-table MySQL database with full referential integrity, then wrote 25+ advanced SQL queries (CTEs, window functions, subqueries) for sales analysis, customer segmentation, and BI reporting.
+
+#### 6️⃣ [Power BI: ElectroVision — Global EV Market Analysis Dashboard](https://github.com/sumbet-rathan/Power_BI_EV_Market_Analysis_Dashboard)
 `Power BI` `DAX` `IEA EV Data 2024`
 Built a 4-page interactive Power BI dashboard covering 50+ countries with 10+ KPIs (EV market share, YoY growth, powertrain metrics), drill-through reports, and dynamic slicers for self-serve stakeholder analysis.
 
-#### 🛒 [Grocery Store Management System](https://github.com/sumbet-rathan)
-`SQL` `MySQL` `Joins` `Aggregations` `Subqueries`
-Designed a normalized 7-table MySQL database with full referential integrity, then wrote 25+ advanced SQL queries (CTEs, window functions, subqueries) for sales analysis, customer segmentation, and BI reporting.
+#### 7️⃣ [Python: IPL Auction Simulator](https://github.com/sumbet-rathan/Python_IPL_Auction_Simulator)
+`Python` `Jupyter Notebook` `Simulation`
+A Python-based simulator that models an IPL-style player auction, applying budget constraints and bidding logic to simulate team formation outcomes.
 
 📌 *Explore all repositories on my [GitHub profile](https://github.com/sumbet-rathan).*
 
