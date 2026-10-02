@@ -26,8 +26,8 @@ I'm currently upskilling full-time in **Data Science, Machine Learning, and Gene
 
 | Role | Company | Duration |
 |------|---------|----------|
-| US Recruiting | Recuriting and Reporting Analyst| Futran Solutions | Nov 2024 – Mar 2025 |
-| US Recruiting | Recuriting and Reporting Analyst | LanceSoft | Feb 2023 – Jul 2024 |
+| US Recruiting / Recuriting and Reporting Analyst| Futran Solutions | Nov 2024 – Mar 2025 |
+| US Recruiting / Recuriting and Reporting Analyst | LanceSoft | Feb 2023 – Jul 2024 |
 | Cyber Security Intern (Data Analysis Support) | Sheetal Solutions | Jul 2022 – Jan 2023 |
 
 Across these roles, I've managed **10,000+ operational and recruitment records**, delivered **55+ MIS/KPI reports**, and improved reporting accuracy by **25–30%** through systematic data validation and cleaning.
